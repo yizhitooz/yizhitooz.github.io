@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "文章标题"
+title: "如何去写一篇文章（示例模版）"
 date:   2024-1-27
 tags: [tag1, tag2]
 comments: true
